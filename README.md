@@ -169,7 +169,12 @@ src/main/java/com/gutendex/
 └── service/
     ├── AutorService.java
     └── LibroService.java          # Guardar “a/n/índice”, duplicados, transacciones
-```
+
+
+
+## 🧠 Autor
+
+Desarrollado por **Rodrigo Zúñiga** como parte del programa **Oracle Next Education (ONE) - Alura LATAM**.
 
 ## Licencia
 
